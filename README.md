@@ -17,7 +17,7 @@ MongoDB supports horizontal scaling through sharding.
 3. enable sharding on test0.
 4. Create shard key as test_id.
 
-# Use commnad 
+Use command 
 # sudo bash mongoes.sh
 
 
